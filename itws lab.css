@@ -1,0 +1,381 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    
+}
+.baselogo{
+    background-color: rgb(2,3,129);
+    display: flex;
+    width: auto;
+    height: 50px;
+    padding: 3% ;
+    border-bottom: outset;
+    padding-top: 1.6%;
+    padding-bottom: 1.56;
+   
+}
+.tex {
+    padding: 0%;
+    text-align: center;
+   justify-content: center;
+    width: 100%;
+    height: 100px;
+}
+.tex h1 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ff9900;
+    
+}
+.tex h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.tex h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+
+}
+
+.neustlogo img{  
+    width: 70px;
+    height: 70px;
+}
+.logo2 img{
+    width: 60px;
+    height: 60px;
+}
+.base{
+    width: 80%;
+    height: 1px;
+    position: relative;
+    margin: 50px auto;
+    padding-top: 0%;
+    padding-bottom: 1%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+.fbttn {
+    display: flex;
+    border-bottom: 1px solid#ccc;
+  
+}
+.fbttn button{
+    background: transparent ;
+    font-size: 20px;
+    font-weight: bolder;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: auto;
+    margin-right: auto;
+}
+button:hover {
+    background-color: transparent;
+}
+.fbttn .fa{
+    margin-right: 10px ;
+}
+.fbttn button:hover .fa{
+    color: red;
+}
+
+.fbttn button a{
+    text-decoration: none;
+}
+
+
+.intro{
+    height:393px;
+    padding: 0%;
+    padding-left: 10%;
+    padding-top: 10%;
+    border: outset;
+
+}
+.intro h1{
+    font-size: 65px;
+    font-style: unset;
+    font-family: Arial, Helvetica, sans-serif;
+    color: coral;
+    text-decoration: none;
+    text-decoration-style: solid;
+    text-align: right;
+}
+
+
+
+.National{
+    position: static;
+    width: 95%;
+    height: 30px;
+    padding: 1%;
+    background-color: #0e007a;
+    border-bottom: inset;
+    padding-left: 3%;
+    display: flex;
+}
+.National h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+justify-content: left;
+text-align: left;
+color: #ff9900;
+width: auto;
+}
+.baseant{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 95%;
+    height: 80%;
+    padding: 2% ;
+    border: outset;
+}
+.lyrics{
+
+justify-content: center;
+text-align: center;
+}
+.lyrics p{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+line-height: 36px;
+justify-content: center;
+text-align: center;
+}
+.lyrics h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+justify-content: center;
+text-align: center;
+}
+.lyrics h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+justify-content: center;
+text-align: center;
+}
+.antvid{
+    flex-basis: 50%;
+    text-align: center;
+    padding: 8%;
+    
+}
+.mivi{
+    position: static;
+    width: 95%;
+    height: 30px;
+    padding: 1%;
+    background-color: #0e007a;
+    border-bottom: inset;
+    padding-left: 3%;
+    display: flex;
+    margin-bottom: 0%;
+}
+.mivi h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24.1px;
+justify-content: left;
+text-align: left;
+color: #ff9900;
+width: auto;
+
+}
+.baseant2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 95%;
+    height: 80%;
+    padding: 2% ;
+    border: outset;
+}
+.baseant2 img{
+    height: 600px;
+    width: 600px;
+}
+
+.missn{
+    margin-right: 1%;
+    border: inset;
+}
+.vissn{
+    border: inset;
+}
+.hy{
+    position: static;
+    width: 95%;
+    height: 30px;
+    padding: 1%;
+    background-color: #0e007a;
+    border-bottom: inset;
+    padding-left: 3%;
+    display: flex;
+    margin-bottom: 0%;
+}
+.hy h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+justify-content: left;
+text-align: left;
+color: #ff9900;
+}
+
+.basehym{
+    display: flexbox;
+    justify-content: center;
+    text-align: center;
+    width: 95%;
+    height: 80%;
+    padding: 2% ;
+    border: outset;
+    margin: 0%;
+   
+}
+.lyricshym{
+padding-bottom: 10%;
+padding-top: 5%;
+justify-content: center;
+text-align: center;
+
+}
+.lyricshym p{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+line-height: 28px;
+justify-content: center;
+text-align: center;
+}
+.lyricshym h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+justify-content: center;
+text-align: center;
+}
+.lyricshym h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+justify-content: center;
+text-align: center;
+}
+.hymvid{
+    flex-basis: 50%;
+    text-align: center;
+    padding: 3%;
+    padding-left: 0%;
+    padding-right: 0% ;
+    padding-top: 5%;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+.hymb{
+
+    justify-content: center;
+    text-align: center;
+    width: auto;
+    height: 100%;
+    padding: 0% ;
+    margin: 0%; 
+    border: outset;
+}
+
+.pama{
+    position: static;
+    width: 95%;
+    height: 30px;
+    padding: 1%;
+    background-color: #0e007a;
+    border-bottom: inset;
+    padding-left: 3%;
+    display: flex;
+    margin-bottom: 0%;
+}
+.pama h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 26px;
+justify-content: left;
+text-align: left;
+color: #ff9900;
+margin: 0%;
+width: 100;
+}
+
+.basepama{
+    display: flex;
+    justify-content: right;
+    text-align: center;
+    width: 95%;
+    height: 80%;
+    padding: 2% ;
+    border: outset;
+    
+}
+.lyricspama{
+
+justify-content: center;
+text-align: center;
+}
+.lyricspama p{ 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+line-height: 38px;
+justify-content: right;
+text-align: center;
+}
+.lyricspama h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+justify-content: right;
+text-align: center;
+}
+
+
+.space{
+    background:transparent;
+    position: static;
+    height: 20px;
+    padding: 2%;
+}
+
+.home{
+    padding: auto;
+    justify-content: right;
+    text-align: right;
+    padding-left: 69%;
+
+}
+.home button{
+    font-size: 20px;
+border: outset;
+    outline: none;
+    cursor: pointer;
+    padding: auto;
+    margin-right: auto;   
+}
+.home button .fa{
+    margin-right: 10px ;
+}
+
+.home button:hover .fa{
+    color: silver;
+}
+.home button:hover{
+    background-color: azure;
+}
+.home a{
+    font-size: 15px;
+    text-decoration: none; 
+}
+
+.hy .home {
+    padding-left: 78%;
+    padding-right: 0%;
+}
+
+.pama .home{
+    padding-left: 69%;
+    padding-right: 0%;
+}
